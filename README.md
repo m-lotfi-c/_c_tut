@@ -1,4 +1,4 @@
-# _c_tut
+# _c tutotrial_            
 brief introduction to c 
 ## BOOK
 Borland® C++ Builder™ The Complete Reference
